@@ -1,0 +1,15 @@
+[
+    {
+        "titre" : "Data Analyst",
+        "statut" : "Stage",
+        "entreprise" : "Izyshow",
+        "lieu" : "Paris",
+        "debut" : "2025-07-21",
+        "fin" : "2025-09-26",
+        "description": [
+            "Extraction des données via les APIs et une base de données",
+            "Data Preprocessing et Data Viusalisation",
+            "Dashboard intéractif via Streamlit"
+        ]
+    }
+]

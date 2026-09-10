@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Système de recommandation de films",
+        "description" : "Mise en place d'une base de données de leurs score",
+        "tasks" : [
+            "Extraction des données via l'API de TMDB",
+            "Data Preprocessing et extraction des KPIs avec Python",
+            "Stockage de données avec SQL et DuckDB",
+            "Frontend en Streamlit"
+        ]
+    },
+    {
+        "title" : "Décomposition d'atomes radioactifs",
+        "description" : "Modélisation de désintégration d'atomes et simulation",
+        "tasks" : []
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title" : "Master Data Manager",
+        "lieu" : "The Progress Factory, Lyon",
+        "debut" : "2025-11-17",
+        "fin" : null,
+        "description" : [
+            "Formation en alternance : 3 semaines en entreprise / 1 semaine en formation",
+            "Piloter un projet Data",
+            "Manager des équipes"
+        ]
+    },
+    {
+        "title" : "Master 2 Statistiques, Modélisation et Science des Données - Science des Données",
+        "lieu" : "Université Claude Bernard Lyon 1, Lyon",
+        "debut" : "2024-09-09",
+        "fin" : "2025-09-04",
+        "description" : [
+            "Analyse de données : Data Mining, Text Mining",
+            "Machine Learning, Deep Learning, Optimisation"
+        ]
+    },
+    {
+        "title" : "Master 1 Mathématiques Générales",
+        "lieu" : "Université Claude Bernard Lyon 1, Lyon",
+        "debut" : "2023-09-04", 
+        "fin" : "2024-07-02",
+        "description" : []
+    },
+    {
+        "title" : "Licence de Mathématiques",
+        "lieu" : "Nantes Université - UFR Sciences et Techniques, Nantes",
+        "debut" : "2020-09-07",
+        "fin" : "2023-05-19",
+        "description" : []
+    }
+]

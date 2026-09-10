@@ -1,0 +1,35 @@
+[
+    {
+        "titre" : "Python",
+        "description" : [
+            "Extraction et analyse de données (Pandas)",
+            "Visualisation de données (Matplotlib, Seaborn, Plotly)",
+            "Machine Learning, Deep Learning (Scikit-Learn, TensorFlow)",
+            "LLM & RAG (torch, transformers)",
+            "Dashboard (Streamlit, Flask)"
+        ]
+    },
+    {
+        "titre" : "R, SAS",
+        "description" : [
+            "Data Mining",
+            "Analyse statistique"
+        ]
+    },
+    {
+        "titre" : "Docker",
+        "description" : []
+    },
+    {
+        "titre" : "Git/Github",
+        "description" : []
+    },
+    {
+        "titre" : "SQL",
+        "description" : []
+    },
+    {
+        "titre" : "Linux",
+        "description" : []
+    }
+]
