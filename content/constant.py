@@ -6,7 +6,9 @@ BIRTHDAY = datetime.date(2004, 1, 19)
 TODAY = datetime.date.today()
 
 AGE = TODAY.year - BIRTHDAY.year
-if (TODAY.month < BIRTHDAY.month) or (TODAY.month == BIRTHDAY.month and TODAY.day < BIRTHDAY.day) :
+if (TODAY.month < BIRTHDAY.month) or (
+    TODAY.month == BIRTHDAY.month and TODAY.day < BIRTHDAY.day
+):
     AGE = AGE - 1
 
 NUMBER = "+33649761889"
